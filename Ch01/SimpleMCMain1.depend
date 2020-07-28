@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1595963252 source:c:\users\mozei\repos\cpp_for_finance\simplemcmain1\random1.cpp
+	"Random1.h"
+	<cstdlib>
+	<cmath>
+
+1595963252 c:\users\mozei\repos\cpp_for_finance\simplemcmain1\random1.h
+
+1595963405 source:c:\users\mozei\repos\cpp_for_finance\simplemcmain1\main.cpp
+	<iostream>
+	"Random1.h"
+	<cmath>
+
