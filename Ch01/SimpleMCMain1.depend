@@ -11,3 +11,16 @@
 	"Random1.h"
 	<cmath>
 
+1595963252 source:c:\users\mozei\repos\cpp_for_finance\ch01\random1.cpp
+	"Random1.h"
+	<cstdlib>
+	<cmath>
+
+1595963252 c:\users\mozei\repos\cpp_for_finance\ch01\random1.h
+
+1596214427 source:c:\users\mozei\repos\cpp_for_finance\ch01\main.cpp
+	<iostream>
+	"Random1.h"
+	<cmath>
+	<string>
+
